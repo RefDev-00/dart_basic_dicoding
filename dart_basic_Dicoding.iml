@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="WEB_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/null_safety/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/null_safety/build" />
+      <excludeFolder url="file://$MODULE_DIR$/null_safety/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/if_else/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/if_else/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/if_else/build" />
+      <excludeFolder url="file://$MODULE_DIR$/map/build" />
+      <excludeFolder url="file://$MODULE_DIR$/map/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/map/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/constructor/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/constructor/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/constructor/build" />
+      <excludeFolder url="file://$MODULE_DIR$/variabel_scope/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/variabel_scope/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/variabel_scope/build" />
+      <excludeFolder url="file://$MODULE_DIR$/constants_final/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/constants_final/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/constants_final/build" />
+      <excludeFolder url="file://$MODULE_DIR$/challenge_loop/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/challenge_loop/build" />
+      <excludeFolder url="file://$MODULE_DIR$/challenge_loop/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/properties_methods/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/properties_methods/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/properties_methods/build" />
+      <excludeFolder url="file://$MODULE_DIR$/enumerated_types/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/enumerated_types/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/enumerated_types/build" />
+      <excludeFolder url="file://$MODULE_DIR$/abstract_class/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/abstract_class/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/abstract_class/build" />
+      <excludeFolder url="file://$MODULE_DIR$/dart_basic/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/dart_basic/build" />
+      <excludeFolder url="file://$MODULE_DIR$/dart_basic/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/set/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/set/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/set/build" />
+      <excludeFolder url="file://$MODULE_DIR$/cascade_notation/build" />
+      <excludeFolder url="file://$MODULE_DIR$/cascade_notation/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/cascade_notation/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/implicit interface/build" />
+      <excludeFolder url="file://$MODULE_DIR$/implicit interface/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/implicit interface/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/break_continue/build" />
+      <excludeFolder url="file://$MODULE_DIR$/break_continue/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/break_continue/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/while_do_while/build" />
+      <excludeFolder url="file://$MODULE_DIR$/while_do_while/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/while_do_while/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/app_conversi_suhu/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/app_conversi_suhu/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/app_conversi_suhu/build" />
+      <excludeFolder url="file://$MODULE_DIR$/inheritance/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/inheritance/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/inheritance/build" />
+      <excludeFolder url="file://$MODULE_DIR$/list/build" />
+      <excludeFolder url="file://$MODULE_DIR$/list/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/list/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/function_dart/build" />
+      <excludeFolder url="file://$MODULE_DIR$/function_dart/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/function_dart/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/class_dart/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/class_dart/build" />
+      <excludeFolder url="file://$MODULE_DIR$/class_dart/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/switch_case/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/switch_case/build" />
+      <excludeFolder url="file://$MODULE_DIR$/switch_case/.pub" />
+    </content>
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="Dart SDK" level="project" />
+    <orderEntry type="library" name="Dart Packages" level="project" />
+  </component>
+</module>
